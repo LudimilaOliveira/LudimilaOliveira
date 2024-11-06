@@ -32,8 +32,11 @@
 
 ###  📊 Estatísticas no GitHub:
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LudimilaOliveira&show_icons=true&count_private=true&hide_border=true&title_color=076461&icon_color=13747d&text_color=D3D3D3&bg_color=0d1117" alt="Ludimila Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudimilaOliveira&layout=compact&hide_border=true&title_color=076461&text_color=D3D3D3&bg_color=0d1117" />
+  <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api?username=LudimilaOliveira&show_icons=true&count_private=true&hide_border=true&title_color=076461&icon_color=13747d&text_color=D3D3D3&bg_color=0d1117" alt="Ludimila Oliveira github stats" /> 
+  <img width="41%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudimilaOliveira&layout=compact&hide_border=true&title_color=076461&text_color=D3D3D3&bg_color=0d1117" />
 </div>
+
+## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LudimilaOliveira&repo=dio-lab-open-source&bg_color=0d1117&border_color=459a96&show_icons=true&icon_color=30A3DC&title_color=076461&text_color=FFF)](https://github.com/Antonioafj/dio-lab-open-source)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f928c&height=120&section=footer"/>
