@@ -18,6 +18,6 @@
 ### Habilidades:
 ### Redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=459a96)](https://www.linkedin.com/in/ludimila-oliveira-vitor-713a15268/)
-[![Instagram](https://img.shields.io/badge/-Instagram-100000?style=for-the-badge&logo=instagram&logoColor=459a96)]((https://www.instagram.com/ludyyoliveiraaa/))
+[![Instagram](https://img.shields.io/badge/-Instagram-100000?style=for-the-badge&logo=instagram&logoColor=459a96)]([(https://www.instagram.com/ludyyoliveiraaa/)](https://www.instagram.com/ludyyoliveiraaa/profilecard/?igsh=MTV5dGMzbndyeTY3cA==))
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=459a96)](mailto:ludimilaoliveiraop@gmail.com)
 
