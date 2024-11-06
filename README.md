@@ -38,6 +38,6 @@
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LudimilaOliveira&repo=Calculadora-da-Progess-o-Geom-trica&bg_color=0d1117&border_color=459a96&show_icons=true&icon_color=30A3DC&title_color=076461&text_color=FFF)](https://github.com/LudimilaOliveira/Calculadora-da-Progess-o-Geom-trica)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LudimilaOliveira&repo=Calculadora-da-Progess-o-Geom-trica&bg_color=0d1117&border_color=459a96&show_icons=true&icon_color=30A3DC&title_color=076461&text_color=FFF)](https://github.com/LudimilaOliveira/Calculadora-da-Progess-o-Geom-trica)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LudimilaOliveira&repo=lar_conforto_loja&bg_color=0d1117&border_color=459a96&show_icons=true&icon_color=30A3DC&title_color=076461&text_color=FFF)](https://github.com/LudimilaOliveira/lar_conforto_loja)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f928c&height=120&section=footer"/>
