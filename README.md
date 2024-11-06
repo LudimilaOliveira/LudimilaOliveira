@@ -23,10 +23,3 @@
 
 
 ###  📊 Estatísticas no GitHub:
-
-
-### Redes sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=459a96)](https://www.linkedin.com/in/ludimila-oliveira-vitor-713a15268/)
-[![Instagram](https://img.shields.io/badge/-Instagram-100000?style=for-the-badge&logo=instagram&logoColor=459a96)]([https://www.instagram.com/ludyyoliveiraaa/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=459a96)](mailto:ludimilaoliveiraop@gmail.com)
-
